@@ -9,7 +9,7 @@
         "esModuleInterop": true,
         "forceConsistentCasingInFileNames": true,
         "outDir": "./dist",
-        "rootDir": "./src/http",
+        "rootDir": "./src",
         "strict": true,
         "skipLibCheck": true
     },
